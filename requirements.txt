@@ -1,0 +1,13 @@
+langchain 
+langchain-community
+langchain-google-genai
+langchain-nvidia-ai-endpoints
+langchain-huggingface 
+sentence-transformers
+python-dotenv
+chromadb
+beautifulsoup4 
+lxml
+fastapi
+uvicorn
+pydantic
